@@ -1,5 +1,5 @@
 # calculator_app
-Mehmet Afif Arsay / Muhammed Aldaghma
+Muhammed Aldaghma / Mehmet Afif Arsay
 
 A new Flutter project.
 
